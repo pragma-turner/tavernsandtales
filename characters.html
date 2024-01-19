@@ -1,0 +1,11 @@
+---
+title: characters
+layout: default
+---
+{% for char in site.characters %}
+  <h2>
+    <a href="{{ char.url }}">
+      {{ char.character_name }} - {{ char.class }}
+    </a>
+  </h2>
+{% endfor %}

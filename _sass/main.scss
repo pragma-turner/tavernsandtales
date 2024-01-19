@@ -1,13 +1,50 @@
 $nav-bg-color: #333;
 $nav-text-color: #fff;
 
+$card-bg-color: #fff;
+$card-padding: 20px;
+$card-border-radius: 10px;
+$character-name-font-size: 48px;
+$character-portrait-height: 300px;
+
+.character-name {
+  text-align: center;
+  font-size: $character-name-font-size;
+  padding: 20px;
+}
+
+.character-card {
+  max-width: 800px;
+  min-height: $character-portrait-height;
+  margin: 20px auto;
+  background-color: $card-bg-color;
+  padding: $card-padding;
+  border-radius: $card-border-radius;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.img {
+  max-width:98%;
+  max-height:100%;
+}
+
+.character-portrait {
+    border-radius: $card-border-radius;
+    height: $character-portrait-height;
+    float: left;
+    top: $card-padding;
+    left: $card-padding;
+    right: $card-padding;
+  }
+
 .current {
   color: green;
 }
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 20px;
   font-family: 'Arial', sans-serif;
   background-color: #cbd2d9; /* Grey-blue background color */
 }
