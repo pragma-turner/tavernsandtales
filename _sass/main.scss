@@ -28,6 +28,7 @@ $character-portrait-height: 300px;
 .img {
   max-width:98%;
   max-height:100%;
+  border-radius: $card-border-radius;
 }
 
 .character-portrait {
