@@ -7,4 +7,12 @@ collections:
   characters:
     output: true
     permalink: /:collection/:name
+markdown: kramdown
+kramdown:
+  enable_coderay: false # If you're not using CodeRay for syntax highlighting
+  auto_ids: true
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+
 
