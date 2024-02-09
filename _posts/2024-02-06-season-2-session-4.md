@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ettins, darklings, and Darqour, oh my!"
+title: "Ettins, Darklings, and Darqour, oh my!"
 ---
 
 # Table of Contents
