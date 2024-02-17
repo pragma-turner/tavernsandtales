@@ -5,9 +5,44 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>D&D at Austin Beerworks Sprinkle Valley</title>
   <link rel="stylesheet" href="../../../assets/css/styles.css">
+  <style>
+    .post-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  </style>
 </head>
 <body>
   {% include navigation.html %} 
+  <div class="post-nav">
+    <div>
+    {% if page.previous.url %}
+      <a href="{{page.previous.url}}">
+        <span class="unsighted">Previous post:</span>
+        <span aria-hidden="true">&laquo;</span>
+        {{page.previous.title}}
+      </a>
+    {% endif %}
+    </div>
+
+    <div>
+        {% if page.next.url %}
+        {% assign next_post_title_array = page.next.title | split: " " %}
+        {% assign next_post_cape_length = next_post_title_array | size | minus: 1 %}
+        {% assign next_post_cape = page.next.title | truncatewords: next_post_cape_length, "" %}
+        {% assign next_post_spit = next_post_title_array | last %}
+        <a href="{{page.next.url}}" style="text-align:right">
+          <span class="unsighted">Next post:</span>
+          {{next_post_cape}}
+          <span style="white-space: nowrap;">
+          {{next_post_spit}}
+          <span aria-hidden="true">&raquo;</span>
+          </span>
+        </a>
+        {% endif %}
+    </div>
+  </div>
   <div class="content-container">
     <h1>{{ page.title }}</h1>
     <section>{{ content }}</section>
