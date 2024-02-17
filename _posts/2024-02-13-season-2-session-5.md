@@ -4,8 +4,13 @@ title: The God of Fire // Funkleberry Fever
 summary: "Travis' table makes their way to <b>Zaloth</b>.</br>
 Turner's table goes on a shopping spree."
 ---
+# Table of Contents
+1. [Travis' Table: The Wolf's Teeth Mountains](#the-mountain)
+2. [Turner's Table: Landfall](#landfall)
+3. [Chris' Table: The Underdark](#underdark)
+
 ---
-# Wolf's Teeth Mountains
+# Wolf's Teeth Mountains <a name="the-mountain"/>
 
 ### Avalanche Ambush
 
@@ -33,7 +38,7 @@ Properly incentivized, the party is gifted some warm, but very uncomfortable wov
 Last we left off, our adventurers were fighting **Darqour**, the creepy druid who tried to convince Fen to go all "The Most Dangerous Game" on Scral. They had managed to kill Darqour with a well-placed arrow to the back, but Grizz was surrounded by giant owls and twig blights...
 
 ---
-# Team Landfall
+# Team Landfall <a name="landfall"/>
 
 ### The Fight Continues
 
@@ -74,3 +79,8 @@ A pair of beady eyes peer out of the mailbox at the druid on the doorstep.
 "No visitor!" The creature shouts in broken common. Sixela is immediately motivated to befriend this creature, and after passing several of her Funkleberry danishes throught the mail-slot, the creature agrees to let her in through the window above.
 
 Meanwhile; Fen, Heimer, and Grizz meander into the alleyway, trying to look casual. Heimer uses his extendo arm (_Mage Hand)_ to yank the rubbish off of the trash guy, exposing him! The Rubbish Rascal immediately pops up, yelling "Hail Kymar!" and rushes the party members, only to be immediately knocked out by Heimer. The clumsy fellow suffers a lethal head-bonk as he hits the ground, sending a flask of alchemists' fire flying.
+
+---
+# The Underdark <a name="underdark"/>
+
+Coming soon...
