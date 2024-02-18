@@ -24,7 +24,7 @@ character_names = {
 }
 
 name_prefix=r"(?<![\[>\*])"
-name_suffix=r"(?=[\. ])"
+name_suffix=r"(?=[\. '])"
 
 def update_links(post_file_path, character_mapping):
     with open(post_file_path, 'r', encoding='utf-8') as file:
