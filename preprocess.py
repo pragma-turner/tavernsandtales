@@ -1,4 +1,5 @@
 import os
+import sys
 import re
 import shutil
 
@@ -28,24 +29,27 @@ name_suffix=r"(?=[\. ])"
 def update_links(post_file_path, character_mapping):
     with open(post_file_path, 'r', encoding='utf-8') as file:
         content = file.read()
+    updated = False
 
     for character_name, character_file in character_mapping.items():
-        print("MATCHING: ", character_name)
+        #print("MATCHING: ", character_name)
         name = renames[character_name]
         # Use a case-insensitive regular expression to find references to the character
         # TODO: make this into a real pattern match.
         regex_pattern = re.compile(name_prefix + re.escape(name) + name_suffix, re.IGNORECASE)
         for m in regex_pattern.finditer(content):
-            print("MATCH: ", content[m.start() - 5:m.end()+5])
+            #print("MATCH: ", content[m.start() - 5:m.end()+5])
+            updated=True
         # content = regex_pattern.sub(f'[{{% link {character_file} %}}]', content)
 
     # Now match characters that don't have a file
     for name in character_names:
-        print("MATCHING: ", name)
+        #print("MATCHING: ", name)
         regex_pattern = name_prefix + re.escape(name) + name_suffix
-        print(regex_pattern)
+        #print(regex_pattern)
         for m in re.finditer(regex_pattern, content):
-            print("MATCH: ", content[m.start() - 5:m.end()+5])
+            #print("MATCH: ", content[m.start() - 5:m.end()+5])
+            updated=True
         content = re.sub(regex_pattern, f"**{name}**", content)
 
     # Create a backup of the original file in the tmp directory
@@ -55,6 +59,7 @@ def update_links(post_file_path, character_mapping):
 
     with open(post_file_path, 'w', encoding='utf-8') as file:
         file.write(content)
+    return updated
 
 def main():
     posts_directory = "_posts"
@@ -68,15 +73,17 @@ def main():
             character_name = os.path.splitext(character_file_name)[0]
             character_mapping[character_name] = os.path.join(characters_directory, character_file_name)
 
-    print(character_mapping)
+    #print(character_mapping)
 
     # Update links in each post file
     for post_file_name in os.listdir(posts_directory):
-        print(post_file_name)
+        #print(post_file_name)
         if post_file_name.endswith(".md"):
             post_file_path = os.path.join(posts_directory, post_file_name)
-            update_links(post_file_path, character_mapping)
-            print(f'Links updated in {post_file_name}')
+            updated = update_links(post_file_path, character_mapping)
+            if updated:
+                #print(f'Links updated in {post_file_name}')
+                sys.stdout.write(post_file_path + " ")
 
 if __name__ == "__main__":
     main()
