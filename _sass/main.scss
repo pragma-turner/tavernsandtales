@@ -64,8 +64,9 @@ header {
     left: 0;
     width: 100%;
     background-color: rgba(51, 51, 51, 0.8); /* Semi-transparent black background for readability */
-    padding: 10px;
-
+    padding-top: 10px;
+    padding-bottom: 10px
+  }
   nav {
     ul {
       list-style: none;
@@ -74,7 +75,8 @@ header {
       display: flex;
 
       li {
-        margin-right: 20px;
+        padding-right: 20px;
+        padding-left: 10px;
 
         a {
           text-decoration: none;
@@ -88,7 +90,6 @@ header {
       }
     }
   }
-}
 }
 
 .content-container {
