@@ -3,6 +3,7 @@ layout: character
 character_name: "Andoryx Lukather"
 player_name: "Derek Deskins"
 class: "Bard Lvl 3"
+first_nameable: "true"
 ---
 Andoryx Lukather is the son of Stephania Lukather, a seamstress, and Elidor Nyx, a wood elf of the Fleet Wood. At the age of 12, Andoryx and his mother fled their home village, Macintyre, when a clan of Goblins overran the town. Upon leaving the village, Andoryx lost touch with his father.
 

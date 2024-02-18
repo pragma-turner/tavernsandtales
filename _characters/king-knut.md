@@ -3,6 +3,7 @@ layout: character
 character_name: "King Knut"
 player_name: "Ben Speigner"
 class: "Barbarian Lvl 3"
+first_nameable: "false"
 ---
 
 I, King Knut of clan Fjordskala, am the rightful ruler of the Drakkar Isles, lord of the Havserpents and the first scales, defender of the faith, and protector of the clutch. I have come to the Gold Coast to raise an army and reclaim my throne from the treacherous Kiwi, the usurper and defiler of the maw. I will stop at nothing to reclaim what is rightfully mine, and I promise to enrich my adherents beyond their wildest dreams in return for their service.
