@@ -50,7 +50,7 @@ Thinking quickly, **Uhr** molds the earth in a nearby advantageous position to c
 # Mistwood <a name="giant-frog"/>
 
 **Silexa**, the bald druid; **Fen**, the halfling rogue; **Grizz**, the angel-kin ranger; and **Dresden**, the warlock fanatic of Ferrovax all find themselves in a sticky situation: face-to-face with the biggest (and hungriest) fucking frog (BFF) they've ever seen. 
-**Heimer**, who has fallen unconscious, and Fen are both inside of **The Temple of Uller**, safely outside of reach. 
+**Heimer**, who has fallen unconscious, and **Fen** are both inside of **The Temple of Uller**, safely outside of reach. 
 With no small-sized targets to go after, the frog decides to chomp down on Grizz, and prepares to swallow him whole. 
 Silexa jumps on top of the frog, ready to attempt to lull him to sleep while Dresden swings his chromatic blade at the beast's side, popping several boils of sticky pus that splatter all over him, restraining him. 
 
@@ -58,38 +58,38 @@ Silexa jumps on top of the frog, ready to attempt to lull him to sleep while Dre
 At this moment, the frog leaps high into the air and comes down hard on the roof of the temple, which was already in disrepair. He crashes through the roof, just barely missing Fen, and grabs him with his froggy mouth. 
 The adventurers pepper the frog with crossbow bolts and arrows, but it isn't enough to bring it down.
 The BFF then leaps back out of the temple, and starts making his way towards the lake. Grizz, presuming that the frog is trying to drown his tiny scoundrel friend, grapples the frogs hind legs. Silexa has been riding the frog this whole time, and begins to soothe the frog by rubbing its head and speaking to it in the language of the forest. 
-Struggling to stay conscious, the frog collapses on the ground spilling Fen out of its mouth. Fen flourishes his blades and finishes off the monster.
+Struggling to stay conscious, the frog collapses on the ground spilling **Fen** out of its mouth. **Fen** flourishes his blades and finishes off the monster.
 
 
 With the BFF slain, the doors to the Temple of Uller open wide, permitting the adventurers entrance. 
 **Scral Luz**, who had been trying to get back into the temple through the roof, parleys with the party and tries to convince them to let him free in exchange for the magical goods on his deceased companions, along with his magical dagger.
 The party gathers the loot off of the dead bodies in the temple (which it seems may have died at Scral's hand): A **driftglobe**, 4 **potions of healing**, a bit of silver and copper, and **backbiter** the magic dagger. 
 The driftglobe responds to the command word *Lumen*, which seems to make it glow with a moderate light, and *Vol*, which makes it shine with the brilliance of daylight. 
-Fen keeps the dagger to inspect later.
+**Fen** keeps the dagger to inspect later.
 The adventurers stick Scral to the side of the frog, which is still leaking sticky fluids. Silexa collects a few samples of the goo, and then they are back off through the forest towards Landfall.
 
 
-The sun has set, and after a few hours of trekking through the pitch-black forest Silexa and Fen hear an eerie whistling in a minor key. They extinguish their driftglobe and stand back-to-back, prepared to face off with whatever enemy the forest may offer up. Grizz, one of the two party members with *Darkvision*, notices a man in a heavy leather cloak carrying a large pack near the edge of his vision. 
+The sun has set, and after a few hours of trekking through the pitch-black forest Silexa and **Fen** hear an eerie whistling in a minor key. They extinguish their driftglobe and stand back-to-back, prepared to face off with whatever enemy the forest may offer up. Grizz, one of the two party members with *Darkvision*, notices a man in a heavy leather cloak carrying a large pack near the edge of his vision. 
 He calls out to the stranger, who disarmingly introduces himself as **Damos, the traveling merchant**.
 Damos warns the party of the dangers of **Xeraketh's Blade** in this area, and tries to sell them an assortment of expensive magical items. Unfortunately, the adventurers are low on coin, and have to send him packing.
 
 
 The party makes camp near the edge of the forest, just within sight of Landfall. As the flames of campfire dance below the canopy of the forest, the party exchanges stories of their pasts.
 
-Fen was raised as a member of a crime family. He has left Batavia in order to let the new generation of thieves and scoundrels make a name for themselves.
+**Fen** was raised as a member of a crime family. He has left Batavia in order to let the new generation of thieves and scoundrels make a name for themselves.
 
 Dresden doesn't remember his past. According to him, he was stepped on by the dragon-god Ferrovax, who gave him a sentient blade and an order to spread word of his power.
 
-Grizz was a bit of a hermit back in the old country. An adventurer named **Jonathan Jarnathan** drew him out of his hermitage with tales of the **Golden Coast**.
+**Grizz** was a bit of a hermit back in the old country. An adventurer named **Jonathan Jarnathan** drew him out of his hermitage with tales of the **Golden Coast**.
 
 Silexa's mum wanted her to run **Roses Inn**, but after an encounter with talking lambs and dogs at a nearby farm she discovered that she was meant for more and left her village, seeking adventure.
 
 As the party falls asleep, they grow in power (advancing to level 2).
 
 
-As the members of the party each take their watch during the night, they each have an encounter with a strange man named **Darqour**. He presses the adventurers about their opinion on civilization, and asks them strange questions about hunting. On the final watch, he delivers Fen an ultimatum: hunt or be hunted. Scral, who the party had left behind, is revealed to be tied to a nearby tree. Darqour demands that Fen either hunt and kill Scral, or he will hunt and kill the party members. Fen calls out to her sleeping party members, instigating a fight.
+As the members of the party each take their watch during the night, they each have an encounter with a strange man named **Darqour**. He presses the adventurers about their opinion on civilization, and asks them strange questions about hunting. On the final watch, he delivers **Fen** an ultimatum: hunt or be hunted. Scral, who the party had left behind, is revealed to be tied to a nearby tree. Darqour demands that **Fen** either hunt and kill Scral, or he will hunt and kill the party members. **Fen** calls out to her sleeping party members, instigating a fight.
 
-Giant owls swoop out of the trees and dead shrubs come alive around the party as Darqour begins casting spells. Fen teleports behind Darqour, delivering a nasty blow. He leaves the Driftglobe floating near Darqour in order to attack with both blades, and Darqour takes the opportunity to snatch the item and try to run. Dresden and Grizz manage to let loose a volley of magical and physical projectiles, felling the creepy Druid as he runs. The owls and shrubs flurry Grizz in anger, seeking to get revenge for the death of their master.
+Giant owls swoop out of the trees and dead shrubs come alive around the party as Darqour begins casting spells. **Fen** teleports behind Darqour, delivering a nasty blow. He leaves the Driftglobe floating near Darqour in order to attack with both blades, and Darqour takes the opportunity to snatch the item and try to run. Dresden and **Grizz** manage to let loose a volley of magical and physical projectiles, felling the creepy Druid as he runs. The owls and shrubs flurry **Grizz** in anger, seeking to get revenge for the death of their master.
 
 
 

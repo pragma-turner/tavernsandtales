@@ -35,7 +35,7 @@ Properly incentivized, the party is gifted some warm, but very uncomfortable wov
 
 **Kella** sneaks forward and investigates the cave and while nearly overcome with the stench pouring out of it, is unable to see much beyond a fork and two paths within it's lightless depths. Feeling more confident the rest of the party makes it's way forward and into the cave. Forgoing any sense of stealth and yet still remaining remarkably quiet they head to the right to find a massive troll asleep on a pile of filthy rags. Dozens of insectile wings slowly flap on the creature's back. Infection? Infestation? Emboldened by the sleeping form, **Hulnir** does what she knows best, and creates a massive glob of grease that splashes onto the troll, just as **Sashka** sends a fire bolt streaking into the troll's flank. It roars as the flames leap up around it, shaking the walls of the small cave. **Nira** the scout guide bravely looses a small arrow , but almost as soon as it strikes, it is pushed back out of the troll's skin. 
 
-Last we left off, our adventurers were fighting **Darqour**, the creepy druid who tried to convince Fen to go all "The Most Dangerous Game" on Scral. They had managed to kill Darqour with a well-placed arrow to the back, but Grizz was surrounded by giant owls and twig blights...
+Last we left off, our adventurers were fighting **Darqour**, the creepy druid who tried to convince **Fen** to go all "The Most Dangerous Game" on Scral. They had managed to kill Darqour with a well-placed arrow to the back, but **Grizz** was surrounded by giant owls and twig blights...
 
 ---
 # Team Landfall <a name="landfall"/>
@@ -46,7 +46,7 @@ Last we left off, our adventurers were fighting **Darqour**, the creepy druid wh
 
 **Heimer**, who up to this point had been unconscious in Dresden's backpack, suddenly awakens and rolls out of the sack to spring up with a crossbow drawn. He looses a bolt at one of the owls (the unnamed one, not Herby) dealing a serious blow to one of its wings. Unfortunately it is still able to swoop down and pickup the corpse of **Darqour**, flying off with it. Herby, the remaining owl, grapples the diminutive **Heimer** in his talons and lifts him up into the air.
 
-The rest of the party responds quickly to this threat: **Sixela** speaks to the owl, failing to convince it that taking her gnomish friend is a bad idea; Fen and **Grizz** let loose with ranged weapons; **Heimer** tries to stab at his captor with a thunder-charged spear, but misses as Herby takes evasive maneuvers. The injured owl flies another 60 feet into the air and drops **Heimer** to his apparent death. Unfortunately for the villains, he uses the gravity arresting device in his backpack (he casts _feather fall_) and floats gently to the ground. Herby, injured and alone, flees.
+The rest of the party responds quickly to this threat: **Sixela** speaks to the owl, failing to convince it that taking her gnomish friend is a bad idea; **Fen** and **Grizz** let loose with ranged weapons; **Heimer** tries to stab at his captor with a thunder-charged spear, but misses as Herby takes evasive maneuvers. The injured owl flies another 60 feet into the air and drops **Heimer** to his apparent death. Unfortunately for the villains, he uses the gravity arresting device in his backpack (he casts _feather fall_) and floats gently to the ground. Herby, injured and alone, flees.
 
 While everyone is discussing what to do with Scral, who is tied to a tree and gagged, another unsettling figure seems to appear directly from the tree. He introduces himself as **Draevax**, and congratulates the party on their well-fought victory before killing Scral with his claws. Scral is buried, and a few words are said in his honor.
 
@@ -54,7 +54,7 @@ While everyone is discussing what to do with Scral, who is tied to a tree and ga
 
 As a new day dawns, the party breaks camp and heads back towards Landfall. They approach the **North Gate**, and are stopped by the squad of city watch on duty. The officer informs the party that their presence has been requested by **Inquisitor Kane** at the City Guard HQ, and sends the party on their way with **Thork**, their escort. Thork turns out to be a nice guy, and warns the party that they've gotten on the wrong side of the City Guard for absconding with a prisoner. He lets the party know that they should get their story straight, and takes them to **Aurix Bridge**.
 
-**Aurix Bridge** is a huge market bridge crammed to the brim with shops of all sorts and sizes. Near the Highmarket side of the bridge, the City Guard HQ provides a convenient point of over-watch. On the left of the HQ, wonderful smells waft out of a gnomish patisserie. On the right a hanging sign indicates a mixed apiary / flatbread shop / jewelers. The HQ itself is guarded by a stone sphinx, but her riddle is no match for the intellectual prowess of Heimer.
+**Aurix Bridge** is a huge market bridge crammed to the brim with shops of all sorts and sizes. Near the Highmarket side of the bridge, the City Guard HQ provides a convenient point of over-watch. On the left of the HQ, wonderful smells waft out of a gnomish patisserie. On the right a hanging sign indicates a mixed apiary / flatbread shop / jewelers. The HQ itself is guarded by a stone sphinx, but her riddle is no match for the intellectual prowess of **Heimer**.
 
 The party meets with **Inquisitor Kane**, who through a thick high-elf accent manages to inform the party that they are not above the law, and will need to help him retrieve some items from the house of the famous adventurer: **Stallenor**. Stallenor is unreachable, and Kane would like the party to find a sending stone or similar item to contact him with. In addition, Stallenor recently acquired a pair of odd bracelets from a rampaging undead ogre and Kane would like those bracelets as evidence in an ongoing investigation.
 
@@ -62,23 +62,23 @@ The party meets with **Inquisitor Kane**, who through a thick high-elf accent ma
 
 The adventurers are eager to get started on their quest, but their stomachs get the better of them and they head into **Dinkleberger's Fine Treats** to purchase some authentic gnomish delicatessen. They find an array of wondrous pastries, but are only able to stomach the cost of some discount **Funkleberry Danishes**, which have an incredibly strong odor.
 
-They make their way over to the Apiary, bypassing **Firebrand's Flatbreads**, to the great chagrin of its proprietor - Pete Zah IX. They enter **Stoutheart's Apiary**, and are greeted by the eponymous dwarf. He showcases his wares, which are both tasty and medicinal, and shows the party the myriad of bee colonies he keeps in the back half of his shop. The party pools their money together to purchase a **BumbleZilla Larvea**, hoping that one day it can serve as a mount for **Fen**. Meanwhile, Sixela befriends Zzzerg, the queen of Stoutheart's biggest colony, by offering her a Funkleberry Danish. Zzzerg spits up a weeks worth of royal jelly for the party to use to feed their new larvea.
+They make their way over to the Apiary, bypassing **Firebrand's Flatbreads**, to the great chagrin of its proprietor - Pete Zah IX. They enter **Stoutheart's Apiary**, and are greeted by the eponymous dwarf. He showcases his wares, which are both tasty and medicinal, and shows the party the myriad of bee colonies he keeps in the back half of his shop. The party pools their money together to purchase a **BumbleZilla Larvea**, hoping that one day it can serve as a mount for **Fen**. Meanwhile, **Sixela** befriends Zzzerg, the queen of Stoutheart's biggest colony, by offering her a Funkleberry Danish. Zzzerg spits up a weeks worth of royal jelly for the party to use to feed their new larvea.
 
 ### The Gilded Gutter
 
 The party makes their way to Cat Folley Alley, where Stallenor's residence is. They pass into **Goldspire**, AKA **The Gilded Gutter**, and are immediately appalled by the muddy streets which stink of night soil and the buildings which seem to be just a good push away from falling over.
 
-They are approached by a beggar with a serious cough. Fen determines that this beggar has a condition which will turn him into a Zombie by the end of the day if he is not treated. Unfortunately, the party is unsure how to help the man and they have no coin to offer. They give him a Funkleberry danish and continue on their quest.
+They are approached by a beggar with a serious cough. **Fen** determines that this beggar has a condition which will turn him into a Zombie by the end of the day if he is not treated. Unfortunately, the party is unsure how to help the man and they have no coin to offer. They give him a Funkleberry danish and continue on their quest.
 
 ### Cat Folley Alley
 
-Having arrived at the alley, Sixela decides to wildshape into a cat and scout ahead. She spots someone hidden in a pile of trash, and a goblin who seems to be watching the trash-pile. She prowls over to Stallenor's front door and sticks her paw in the mail slot, only to morph back into her humanoid shape when her paw is stabbed with a dagger!
+Having arrived at the alley, **Sixela** decides to wildshape into a cat and scout ahead. She spots someone hidden in a pile of trash, and a goblin who seems to be watching the trash-pile. She prowls over to Stallenor's front door and sticks her paw in the mail slot, only to morph back into her humanoid shape when her paw is stabbed with a dagger!
 
 A pair of beady eyes peer out of the mailbox at the druid on the doorstep.
 
-"No visitor!" The creature shouts in broken common. Sixela is immediately motivated to befriend this creature, and after passing several of her Funkleberry danishes throught the mail-slot, the creature agrees to let her in through the window above.
+"No visitor!" The creature shouts in broken common. **Sixela** is immediately motivated to befriend this creature, and after passing several of her Funkleberry danishes throught the mail-slot, the creature agrees to let her in through the window above.
 
-Meanwhile; Fen, Heimer, and Grizz meander into the alleyway, trying to look casual. Heimer uses his extendo arm (_Mage Hand)_ to yank the rubbish off of the trash guy, exposing him! The Rubbish Rascal immediately pops up, yelling "Hail Kymar!" and rushes the party members, only to be immediately knocked out by Heimer. The clumsy fellow suffers a lethal head-bonk as he hits the ground, sending a flask of alchemists' fire flying.
+Meanwhile; Fen, Heimer, and **Grizz** meander into the alleyway, trying to look casual. **Heimer** uses his extendo arm (_Mage Hand)_ to yank the rubbish off of the trash guy, exposing him! The Rubbish Rascal immediately pops up, yelling "Hail Kymar!" and rushes the party members, only to be immediately knocked out by **Heimer**. The clumsy fellow suffers a lethal head-bonk as he hits the ground, sending a flask of alchemists' fire flying.
 
 ---
 # The Underdark <a name="underdark"/>
