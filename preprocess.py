@@ -4,9 +4,9 @@ import re
 import shutil
 
 renames = {
-    "king-knut": "King Knut",
-    "ta'ahsu": "Ta'ahsu",
-    "andoryx-lukather": "Andoryx Lukather"
+    "king-knut": ["King Knut"],
+    "ta'ahsu": ["Ta'ahsu"],
+    "andoryx-lukather": ["Andoryx Lukather", "Andoryx"]
 }
 
 character_names = {
@@ -20,11 +20,24 @@ character_names = {
     "Fen",
     "Heimer",
     "Grizz",
-    "Sixela"
+    "Sixela",
+    # Chris?
+    "Uhr",
+    "Toof",
+    "Dresden",
+    "Cardigan",
+    "Artair",
+    "Feldrimax"
 }
 
 name_prefix=r"(?<![\[>\*])"
-name_suffix=r"(?=[\. '])"
+name_suffix=r"(?=[\. ',\n])"
+
+def match_and_replace(name, content, character_file):
+    regex_pattern = re.compile(name_prefix + re.escape(name) + name_suffix, re.IGNORECASE)
+    new_content = regex_pattern.sub(f'[{name}]({{% link {character_file} %}})', content)
+    return new_content
+
 
 def update_links(post_file_path, character_mapping):
     with open(post_file_path, 'r', encoding='utf-8') as file:
@@ -33,14 +46,11 @@ def update_links(post_file_path, character_mapping):
 
     for character_name, character_file in character_mapping.items():
         #print("MATCHING: ", character_name)
-        name = renames[character_name]
-        # Use a case-insensitive regular expression to find references to the character
-        # TODO: make this into a real pattern match.
-        regex_pattern = re.compile(name_prefix + re.escape(name) + name_suffix, re.IGNORECASE)
-        for m in regex_pattern.finditer(content):
-            #print("MATCH: ", content[m.start() - 5:m.end()+5])
-            updated=True
-        # content = regex_pattern.sub(f'[{{% link {character_file} %}}]', content)
+        nicknames = sorted(renames[character_name])
+        for name in nicknames:
+            new_content = match_and_replace(name, content, character_file)
+            updated = new_content != content
+            content = new_content
 
     # Now match characters that don't have a file
     for name in character_names:
