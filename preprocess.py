@@ -30,11 +30,11 @@ character_names = {
     "Feldrimax"
 }
 
-name_prefix=r"(?<![\[>\*])"
+name_prefix=r"(?<![\[>\*])(?<=[ \n])"
 name_suffix=r"(?=[\. ',\n])"
 
 def match_and_replace(name, content, character_file):
-    regex_pattern = re.compile(name_prefix + re.escape(name) + name_suffix, re.IGNORECASE)
+    regex_pattern = re.compile(name_prefix + re.escape(name) + name_suffix)
     new_content = regex_pattern.sub(f'[{name}]({{% link {character_file} %}})', content)
     return new_content
 
@@ -46,7 +46,7 @@ def update_links(post_file_path, character_mapping):
 
     for character_name, character_file in character_mapping.items():
         #print("MATCHING: ", character_name)
-        nicknames = sorted(renames[character_name])
+        nicknames = sorted(renames[character_name], reverse=True)
         for name in nicknames:
             new_content = match_and_replace(name, content, character_file)
             updated = new_content != content
