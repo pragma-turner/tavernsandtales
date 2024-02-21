@@ -35,10 +35,11 @@ Properly incentivized, the party is gifted some warm, but very uncomfortable wov
 
 **Kella** sneaks forward and investigates the cave and while nearly overcome with the stench pouring out of it, is unable to see much beyond a fork and two paths within it's lightless depths. Feeling more confident the rest of the party makes it's way forward and into the cave. Forgoing any sense of stealth and yet still remaining remarkably quiet they head to the right to find a massive troll asleep on a pile of filthy rags. Dozens of insectile wings slowly flap on the creature's back. Infection? Infestation? Emboldened by the sleeping form, **Hulnir** does what she knows best, and creates a massive glob of grease that splashes onto the troll, just as **Sashka** sends a fire bolt streaking into the troll's flank. It roars as the flames leap up around it, shaking the walls of the small cave. **Nira** the scout guide bravely looses a small arrow , but almost as soon as it strikes, it is pushed back out of the troll's skin. 
 
-Last we left off, our adventurers were fighting **Darqour**, the creepy druid who tried to convince **Fen** to go all "The Most Dangerous Game" on Scral. They had managed to kill Darqour with a well-placed arrow to the back, but **Grizz** was surrounded by giant owls and twig blights...
 
 ---
 # Team Landfall <a name="landfall"/>
+
+Last we left off, our adventurers were fighting **Darqour**, the creepy druid who tried to convince **Fen** to go all "The Most Dangerous Game" on Scral. They had managed to kill Darqour with a well-placed arrow to the back, but **Grizz** was surrounded by giant owls and twig blights...
 
 ### The Fight Continues
 
