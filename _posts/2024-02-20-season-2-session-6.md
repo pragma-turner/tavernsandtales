@@ -35,7 +35,32 @@ While exploring the cave, the party is able to spot a hidden door behind the Tro
 ---
 # Landfall <a name="landfall"/>
 
-Coming soon...
+Outside of Stallenor's house, the party prepares to make entry. They discuss their plans, and the nearby goblin chews on his cigar, occasionally making unhelpful suggestions. **Dresden** decides to try going up through one of the taller buildings on either side of the house, and **Grizz** decides to go for a straight climb.
+
+**Grizz** easily makes it up to the bit of roof over the first story and starts listening at the second-story window, which has been covered up with newspaper and the like. Meanwhile, **Dresden** pays a gold to go up through a Dwarf's home. The Dwarf convinces his elderly upstairs neighbor, Griselda, to let **Dresden** onto her roof. She throws in a Funkleberry danish for **Dresden** because she's sweet.
+
+After making it to the second-story roof, **Dresden** drops a rope for the rest of the party. Everyone starts climbing up, and a hearty round of debate on how to enter through the window starts. **Dresden** decides to take the initiative and moves to swing through the window, feet first. He crashes into a small creature dressed like a butler on the other side and they fall into a tangle. 
+
+**Fen** rushes into the trophy room and swiftly plants a blade into the back of the butler-kobold's skull, freeing his companion. Just as **Dresden** starts standing up, a red-sleeved hand emerges from a nearby closet gripping a small shadowy bottle, and a voice cries out:
+
+"I'VE GOT A WEAPON AND I'M NOT AFRAID TO FUCKING USE IT!"
+
+**Heimer** dashes up to the door, preparing his spear for an attack should the closeted enemy emerge. **Dresden** shoulder-checks the door, and the foe yelps as his arm snaps cleanly off. There is a wooshing noise, and fire shoots out from underneath the closet door as something explodes inside. The shadowy bottle drops, just barely escaping **Heimer**'s hands, and shatters on the ground, releasing its monstrous contents.
+
+A translucent specter emerges, and the party notices that it seems afraid of the last rays of light coming through the window. **Fen** acts quickly, activating the driftglobe with the command word: "Vol". The shadow escapes the trophy room, leaving the party to quickly put out the fire that had started in the closet.
+
+After looting the room and finding a black and white stone idol in the shape of a spider, along with a note reading:
+
+"speak nadlath, to reach me or Melodia".
+
+Exiting the trophy room, **Heimer** disables a set of trapped stairs, and the party heads into a ransacked kitchen. They find an empty bowl labeled "Sir Noms-A-Lot", and a kitchen table surrounded by chairs. Oddly, one of the chairs is chained to a nearby wall.
+
+**Sixela** decides to produce a Goodberry, and drops it into the empty food bowl. The chained chair totters over, and a tongue emerges from its seat to lap up the magical treat. **Sixela** recognizes this creature as some kind of domesticated mimic, and finds a nearby rubber ball to distract the creature. It happily turns into a beach-basket and slobbers all over the toy as the party slips by.
+
+The party moves on into a hallway with two doors. **Heimer** uses a key he pulled off of the dead butler to open one, while **Fen** goes through the other. As **Fen** enters a bedroom, he sees the shadow crouched over the desiccated body of a red-robed humanoid. **Fen** swings the light of the driftglobe towards it, and it flees through a tiny hole into the adjacent study, launching an attack on **Heimer**. Simultaneously, a severed arm with a gauntlet leaps out from under the bed, assaulting **Fen**. Another severed arm emerges from under the desk in the study, targeting **Heimer**. The party dispatches both arms, but the shadow slips away into a hole in the floor. The party, undeterred, solves a puzzle to unlock Stallenor's desk and uncovers a note pointing to a Collegium Arcanum professor's involvement and a warning not to trust Inquisitor Kane.
+
+Exiting the house, they speak with the goblin Glub-glub, who implores them not to walk through the Gilded Gutter at night. He invites them to stay with him and his family, and even offers them a quest.
+
 
 ---
 # The Underdark <a name="underdark"/>
