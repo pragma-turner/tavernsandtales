@@ -2,9 +2,9 @@
 layout: post
 title: Troll Roast // Besotted at Beholder Bay
 summary: "
-Travis' table fights a troll!
-
-Chris' table searches for a rare egg.
+Travis' table fights a troll!</br>
+Chris' table searches for a rare egg.</br>
+Turner's table plunders Stallenor's house.</br>
 "
 ---
 
