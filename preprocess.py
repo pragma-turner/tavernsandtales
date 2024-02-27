@@ -6,7 +6,8 @@ import shutil
 renames = {
     "king-knut": ["King Knut"],
     "ta'ahsu": ["Ta'ahsu"],
-    "andoryx-lukather": ["Andoryx Lukather", "Andoryx"]
+    "andoryx-lukather": ["Andoryx Lukather", "Andoryx"],
+    "sixela": ["Sixela"]
 }
 
 character_names = {
@@ -20,7 +21,6 @@ character_names = {
     "Fen",
     "Heimer",
     "Grizz",
-    "Sixela",
     # Chris?
     "Uhr",
     "Toof",
