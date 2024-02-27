@@ -5,6 +5,8 @@ summary: "
 Travis' table fights a troll!
 
 Chris' table searches for a rare egg.
+
+Turner's table plunders Stallenor's house.
 "
 ---
 
