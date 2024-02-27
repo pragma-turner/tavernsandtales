@@ -29,7 +29,7 @@ After a brief "misunderstanding" between [King Knut]({% link _characters/king-kn
 
 Queen Vlakith stormed off, swearing vengeance, and Governor Ribble Faroot said that the orcs had already formed search parties and were already marauding across the city, and that he had to try and calm Vlakith and her kin before things got out of hand. He asked the party to watch over his two children while he dealt with the crisis.
 
-**Dresden** convinced Jemwise to take the group back to the site of Lukith's abduction at The Guilded Melange's honeymoon suite. There they found signs of a struggle and some puzzling muddied footprints that obfuscated the assailants' means of escape. Bastian looked out the bedroom window and found another set of muddy prints on the outer wall. Sensing that this new clue indicated an attack from above, the group raced to the Melange's rooftop. **Toof** found evidence of a shapeshifter at work, which caused the party to suspect that the perpetrators may have been druidic followers of Xerakath.
+**Dresden** convinced Jemwise to take the group back to the site of Vlakith's abduction at The Guilded Melange's honeymoon suite. There they found signs of a struggle and some puzzling muddied footprints that obfuscated the assailants' means of escape. Bastian looked out the bedroom window and found another set of muddy prints on the outer wall. Sensing that this new clue indicated an attack from above, the group raced to the Melange's rooftop. **Toof** found evidence of a shapeshifter at work, which caused the party to suspect that the perpetrators may have been druidic followers of Xerakath.
 
 Meanwhile, Elune Faroot revealed that she'd brought in outside help in the form of the elven hunter Stellanor Whisperleaf. With Stellanor's help, the party followed the trail left by the kidnappers and picked up more traveling companions that included Draevax, a mild-mannered elven man who claimed to be a disciple of The Witness who simply wished to observe the proceedings.
 
@@ -39,12 +39,12 @@ So, the mistwood team does some sleuthing, while the Goran's cut team gets right
 
 ## Team Mistwood
 
-After a day's travel and a night of tales and song, the party once again picked up the trail and were rewarded with a clue to Lukith's whereabouts: the scrimshawed antler Jemwise had presented to her as a wdding gift. The item had been dropped on a trail leading into the Shadowspire Mountains, home of the mighty giant clans.
+After a day's travel and a night of tales and song, the party once again picked up the trail and were rewarded with a clue to Vlakith's whereabouts: the scrimshawed antler Jemwise had presented to her as a wdding gift. The item had been dropped on a trail leading into the Shadowspire Mountains, home of the mighty giant clans.
 
 The group barely had time to process the notion of heading into rugged, giant-controlled terrain when they were attacked by a member of Xerakath's Blades who unleashed a mob of giant poisonous snakes, spiders, and wasps while casting druidic spells. The fight that followed was grueling, but the enemies were dispatched without any party members being incapacitated.
 
 While they were engaged in battle, Draevax magically opened an entrance in a stone bluff that ran alongside the road, which Elune and her guardsmen used to spirit Jemwise away. Draevax revealed himself as a Blade of Xerakath and dispatched Stellanor quickly and brutally before stepping into a tree and vanishing.
 
-There is now. a choice to be made: journey upward into the mountains to brave the giants and find Lukith? Or delve into the gloom of the underdark to hunt the traitorus Elune and rescue here kind if inept brother?
+There is now. a choice to be made: journey upward into the mountains to brave the giants and find Vlakith? Or delve into the gloom of the underdark to hunt the traitorus Elune and rescue here kind if inept brother?
 
 
