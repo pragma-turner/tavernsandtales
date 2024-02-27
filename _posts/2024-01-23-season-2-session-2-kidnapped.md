@@ -4,9 +4,9 @@ title: "Kidnapped"
 ---
 # Kidnapped!
 
-As our adventurers awake, heads reeling from a night of carousing after a successful wedding ceremony, Queen Vlakith bursts through the door!
+As our adventurers awake, heads reeling from a night of carousing after a successful wedding ceremony, Queen Lukith bursts through the door!
 
-"Princess Lukith has been kidnapped!", She declares.
+"Princess Vlakith has been kidnapped!", She declares.
 
 Our adventurers are off to a bad start... Let's see how each group handles the situation.
 
