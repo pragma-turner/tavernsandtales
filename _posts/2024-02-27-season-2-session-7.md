@@ -3,6 +3,7 @@ layout: post
 title: Troll Roast // Besotted at Beholder Bay
 summary: "
 'Grease Fire' takes on a pet Stirge!</br>
+The Underdark gang starts a bar fight.</br>
 "
 ---
 
@@ -43,4 +44,16 @@ Coming soon...
 ---
 # The Underdark <a name="underdark"/>
 
-Coming soon...
+Inside the Crooked Bone Tavern, **Toof** and [King Knut]({% link _characters/king-knut.md %})'s distraction had become a full-on fracas. A drunken dwarf leapt off the bar and attempted to swing into the brawling crowd on a ship's-wheel chandelier, but it came crashing down on poor **Artair**'s bear back, knocking him to the floor. Half-filled mugs and bottles filled the air as the party members attempted to dispatch the Restless Dead sellswords still in the Bone while avoiding the punches, kicks, headbutts, and grabs of the rumbling bar patrons.
+
+**Toof** and **Artair** were grappled from behind by two brave (foolish?) souls, who saw no issue with holding tightly to a brown bear and a furious, well armed tiefling while their buddies tried to get some shots in. Both of the grab-happy gentlemen were met with brutally violent, though entirely predictable, ends via bear paw and stolen hook hand.
+
+The bard [Andoryx]({% link _characters/andoryx-lukather.md %}), whose sleeve had mysteriously caught fire in all the hubub, dowsed the flames with a nearby beer and, seeing an angry man rushing toward him brandishing a barstool like a greatclub, quickly Charmed his assailant, convincing him to smash the stool over the head of a nearby Restless Dead wizard.
+
+Two of the three mercenaries who had been in the bar were now dead, but the vigilant party members saw the third make their way through the front door, pausing briefly to change their countenance to that of the warrior Toof! Will they be able to tell the difference between the two Toofs? Teef?
+
+Outside, [Ta'ahsu]({% link _characters/ta'ahsu.md %}) and his snake construct Hiss accompanied the aboleth egg-guarding sellsword to the front desk of the Dank Anchor Inn. [Ta'ahsu]({% link _characters/ta'ahsu.md %}) slipped the clerk a bribe of precious gems and received a key to room 18, which [Ta'ahsu]({% link _characters/ta'ahsu.md %}) had convinced his Restless Dead companion was where his captain was waiting for them. This, of course, was not the case as the mercenary captain Duran was being slowly but steadily dissolved in giant toad stomach acid in the street below.
+
+Once inside the room, [Ta'ahsu]({% link _characters/ta'ahsu.md %}) shut the door and set Hiss on the mercenary, who had begun to suspect he was being duped. The mechanical snake's bite went wide, and the mercenary drew his sword to do battle!
+
+
