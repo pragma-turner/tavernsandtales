@@ -4,6 +4,7 @@ title: Troll Roast // Besotted at Beholder Bay
 summary: "
 'Grease Fire' takes on a pet Stirge!</br>
 The Underdark gang starts a bar fight.</br>
+The beekeepers fight a Kymarian mage.</br>
 "
 ---
 
@@ -38,8 +39,15 @@ Another hot, but less lethal, swim and the party is back on the shores of the la
 ---
 # Landfall <a name="landfall"/>
 
-Coming soon...
+### The Kymarian Mage
 
+Glub-glub the goblin leads the party to an alley that contains the secret entrance to his goblin warren. In the alley, they find a Kymarian dragonborn shouting at the walls, searching for the entrance. He has with him several **Reborn**, who appear to be manacled and under the influence of a spell. **Dresden** approaches the dragonborn, who introduces himself as **Zarthos** and immediately insults **Dresden** for his kobold appearance. The conversation quickly devolves into combat.
+
+The party manages to scrape by. More mesmerized Reborn appear, and it becomes apparent that they are being controlled by a circlet that **Zarthos** is wearing. 
+They almost manage to convince a young Kymarian to lay down his weapons, but he gets blasted by **Zarthos'** breath-weapon before he can do so.
+The party manages to kill **Zarthos**, take his circlet, and free one of the reborn: **Bobby Bones**. 
+
+After the fight, Glub-glub reveals the entrance to the goblin-warren, and introduces the party to the Sharp-Knife Gang.
 
 ---
 # The Underdark <a name="underdark"/>
