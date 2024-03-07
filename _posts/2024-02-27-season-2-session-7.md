@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Troll Roast // Besotted at Beholder Bay
+title: Troll Roast // Zarthos is Zonked // Besotted at Beholder Bay
 summary: "
 'Grease Fire' takes on a pet Stirge!</br>
 The Underdark gang starts a bar fight.</br>
