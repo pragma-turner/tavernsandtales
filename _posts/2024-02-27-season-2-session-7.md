@@ -41,7 +41,11 @@ Another hot, but less lethal, swim and the party is back on the shores of the la
 
 ### The Kymarian Mage
 
-Glub-glub the goblin leads the party to an alley that contains the secret entrance to his goblin warren. In the alley, they find a Kymarian dragonborn shouting at the walls, searching for the entrance. He has with him several **Reborn**, who appear to be manacled and under the influence of a spell. **Dresden** approaches the dragonborn, who introduces himself as **Zarthos** and immediately insults **Dresden** for his kobold appearance. The conversation quickly devolves into combat.
+Glub-glub the goblin leads the party to an alley that contains the secret entrance to his goblin warren.
+In the alley, they find a Kymarian dragonborn shouting at the walls and searching for the entrance.
+He has with him several **Reborn** who appear to be manacled and under the influence of a spell.
+**Dresden** approaches the dragonborn, who introduces himself as **Zarthos** and immediately insults **Dresden** for his kobold appearance.
+The conversation quickly devolves into combat.
 
 The party manages to scrape by. More mesmerized Reborn appear, and it becomes apparent that they are being controlled by a circlet that **Zarthos** is wearing. 
 They almost manage to convince a young Kymarian to lay down his weapons, but he gets blasted by **Zarthos'** breath-weapon before he can do so.
