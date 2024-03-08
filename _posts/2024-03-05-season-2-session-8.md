@@ -3,7 +3,7 @@ layout: post
 title: What's in the box?
 summary: "
 The Beekeepers try to open a box.<br/>
-[Andoryx]({% link _characters/andoryx-lukather.md %}) and the Gang go topsy-turvy.<br/>
+<b>Andoryx</b> and the Gang go topsy-turvy.<br/>
 "
 ---
 
