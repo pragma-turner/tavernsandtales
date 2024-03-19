@@ -48,15 +48,16 @@ After several minutes, Steadfast Grullen makes his way back to the gem throne an
 # Landfall <a name="landfall"/>
 
 **The Beekepers** have been traveling towards the **Southern Mistwood Forest**, specifically the **Mistwood Monarch** in search of **Balphagore, Lord of Chains** (AKA **Balphy**).
-**The Sharp-Knife Gang** has quested the party with bring **Balphy** safely back to Landfall.
+**The Sharp-Knife Gang** has quested the party with bringing **Balphy** safely back to Landfall.
 
 ### In Flight
 
-**The Beekeepers** find themselves running from red-robed cultists and a very cranky Displacer Beast. **Heimer** wakes up from his recent bout of somnolence and throws together a mish-mash of cogs, springs, and crystal-oscillators to quickly throw together a tiny flamethrower. He tosses a glob of grease at the cultists and lights it with a bout of flame from his new toy. Screams and growls echo after the party, and it is only moments until they hear the synchopated patter of the six-legged feline monstrosity following them. 
-The black-coated cat is just readying to pounce on **Grizz** when the ranger reaches all new levels of panic and sprouts wings! With his new-found source of flight, he grabs **Heimer** and **Fen** by their scruffs and leaps over the gorge of the river. At the same instant, **Fen** uses his minor-illusion abilities to make a false image of **Grizz** frozen with fear. The jaguar-from-hell pounces through the illusion and tumbles into the rocks and roaring water below.
+**The Beekeepers** find themselves running from red-robed cultists and a very cranky Displacer Beast. **Heimer** wakes up from his recent bout of somnolence and throws together a mish-mash of cogs, springs, and crystal-oscillators to create a tiny flamethrower. He tosses a glob of grease at the cultists and lights it with a bout of flame from his new toy. Screams and growls echo after the party, and it is only moments until they hear the syncopated patter of the six-legged feline monstrosity following them. 
 
-The party finds a nice shallow cave to rest in only to quickly be disturbed by a prowling owlbear. 
-Thinking quickly on his feet, **Fen** uses an illusion of the displacer beast's growl to keep the predator away from their cave and the party gets a good night of sleep. 
+The black-coated cat is readying to pounce on **Grizz** when the ranger reaches all new levels of panic and sprouts wings! With his new-found source of flight, he grabs **Heimer** and **Fen** by their scruffs and leaps over the gorge of the river. At the same instant, **Fen** uses his minor-illusion abilities to make a false image of **Grizz** frozen with fear. The jaguar-from-hell pounces through the illusion and tumbles into the rocks and roaring water below.
+
+The party finds a nice shallow cave to rest in, but they don't rest for long before they are disturbed by a prowling owlbear. 
+Thinking quickly on his feet (or maybe in his sleeping bag?), **Fen** uses an illusion of the displacer beast's growl to keep the predator away from their cave and the party gets a good night of sleep. 
 They set out the next day and briefly get turned around, but **Grizz** flies up into the sky to get a view of the surrounding landscape and gets them back on track. 
 After another day of traveling, **The Beekeepers** reach **The Southern Mistwood**.
 
@@ -66,9 +67,12 @@ While trecking through the old growth and towering evergreen trees of the forest
 The toy is swarmed by a squad of tiny fungal people, who stomp and scratch the apparent intruder to death.
 A three-foot tall fungus-figure struts out of the grove and raises his spear towards **The Beekeepers** while saying something in an unintelligible stream of clicks and hisses.
 **Fen** uses his minor illusion to mimic the introduction back to the creature, and the tiny fungal people let out a collective gasp.
-It appears as though **Fen** has somehow challenged their mushroom-monarch to a duel. The fungal-folk circle up, and the mushroom-monarch (who the BKs nickname **Squelch**) indicates that **Fen** should either select a weapon or pick a champion.
+It appears as though **Fen** has somehow challenged their mushroom-monarch to a duel. 
+
+The fungal-folk circle up, and the mushroom-monarch (who the BKs nickname **Squelch**) indicates that **Fen** should either select a weapon or pick a champion.
 **Fen** picks **Grizz** as his champion and **Grizz** steps into the ring, sizing up his foe all the while. **Grizz** can tell that this creature has some special hardiness that makes it resistant to piercing attacks and a regenerative ability. After communicating this to his team, **Heimer** lends **Grizz** his Arcano-Resiliencer Impulso-Repeater, which produces Ethereal Penetrator Sigil-Bolts.
-**Grizz** doesn't seem to catch on to the fancy tinkerer-jargon, but eagerly takes the fancy hand-crossbow.
+**Grizz** doesn't seem to understand the fancy tinkerer-jargon, but eagerly takes the fancy hand-crossbow.
+
 Squelch dashes towards **Grizz** and releases a burst of toxic spores. His attempt to paralyze **Grizz** fails, and **Grizz** retorts with a blast from the Impulso-Repeater.
 Squelch quickly mends the hole left in his chest by the bolt, and unleashes a devastating combo of blows, bloodying **Grizz** and bringing him close to death. 
 **Grizz** summons his celestial powers and springs into the air above Squelch to avoid his menacing attacks. Squelch tries to toss a spear at **Grizz**, but the spear goes wide.
@@ -80,7 +84,7 @@ One of the fungal-folks shaman lights up a large bonfire in the ribcage of the g
 The images relay the recent news of the fungal-folk, and the party learns a few intriguing things:
 - It seems that the giant owl that carried the dead body of **Darqour** away was seen flying towards the **Mistwood Monarch**
 - There's a large encampment gathering at the base of the **Mistwood Monarch**
-- **Balphy** was taken deeper into the forest by a group of **Xerakath's Blade** members..
+- **Balphy** was taken deeper into the forest by a group of **Xerakath's Blade** members...
 
 ---
 # The Underdark <a name="underdark"/>
