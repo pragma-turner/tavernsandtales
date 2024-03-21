@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Journey to the Keep // Ritual Shenanigans // Burl Battle"
+summary: "
+Grease Fire sets out to the giant keep.</br>
+The Beekeepers make it to the Xerakath's Blades' ritual chambers.</br>
+Chris' table fights the Blades' for a Burl.</br>
+"
+---
+
+# Table of Contents
+1. [Travis' Table: The Wolf's Teeth Mountains](#the-mountain)
+2. [Turner's Table: Landfall](#landfall)
+3. [Chris' Table: The Underdark](#underdark)
+
+---
+# Wolf's Teeth Mountains <a name="the-mountain"/>
+
+## Journey to the Keep
+
+After saving the inhabitants of the Stone Giant city Kroatash, the party makes their way to one of the few functioning Vlazoth general stores in town to find a shell shocked store keep trying to make sense of the ruts worn in the bare carpet of the store from the ceaseless pattern he kept while under the effects of the idol. The entire city is slowly awakening from one nightmare, straight into a new nightmare. Wails of despair and worry rise up from the city constantly as the inhabitants realize family and friends are missing or dead, ancient traditions were dismissed, and the very infrastructure of the city was crumbling as the people were locked into patterns, heightened emotions, and deep slumber. Sounds of brief combat echo through the streets as guards hunt down creatures that slipped from the portal connecting Kroatash to the elemental plane of earth. In all this chaos, **Kella**, and **Uhr** eagerly discuss the intricacies of the economic system of the city and surmise that it relies on a system of trading gems of varying size, cut, and quality but somehow always ending up with 4 on their person at any one time. The shop keep grudgingly allows the party to pay in gold and some assorted rubies, and some basic supplies, a climbing kit, and a healing potion are procured.
+
+With a promise from Garnok to meet them at Elder's Pass, the party leaves the city gates, and finds that the map Garnok supplied was more than adequate, and is able to make good time. As the day is drawing towards evening the party is able to spy a pair of yetis hunched over and working on something. **Kella** sneaks forward and is able to get close enough to see a mountain goat carcass that the two yetis are in the process of field dressing. Suddenly, the yeti's heads jerk up as **Kella's** scent gives her presence away. Faced with a tough choice, she jumps to the top of the rock she was hiding behind and yells at the two yeti to "STOP!" They do, and there's a moment of confusion. A cold wind blows through the narrow pass, and **Sashka** uses the delay to case Shield of Faith on **Geo** as they both sprint forward, **Sashka** yelling to "Hold! Don't fight them!" Unfortunately, they have a long way to go to get to **Kella**. Seeing the rest of the party running towards them, one of the yetis uses it's Chilling Gaze on **Kella**, but she is able to shrug it off in time to rush forward and stab at the closest yeti, injuring it badly. The injured yeti turns and runs snatching up the carcass, but not before **Kella** gets in another swipe. **Uhr** sees his new companion start stabbing, so he starts running and reaches into his grey bag of tricks and hurls out a small furry ball, it pops and transforms into a small weasel that starts quickly bounding through the snow, still out of rang of the fight.
+
+**Sashka**, **Geo**, and **Hasselhoff** all continue running towards the fight, while **Kella** is attacked by the second yeti and immediately knocked unconscious, thankfully it leaves her body and chases after it's companion, but not before **Uhr** is able to hit it with an Eldritch Blast, and toss another small furry ball towards it. This time, the ball pops and a massive Dire Wolf leaps out and begins chasing down the yeti. What followed, was a slaughter. **Uhr**, **Kella** (after being healed), and the dire wolf made quick work of the fleeing yetis. **Kella** takes some yeti talons, and **Uhr** skillfully manages to skin one of the yetis, while the rest of the party looks on in horror. Burdened with a massive 80 pound pelt, **Uhr** then lets his semi-domesticated Stirge feed on the remains. After a short rest, the party hears war horns in the distance, and are able to figure out that they are Orcish war horns.
+
+The party continues their journey and just as the sun sets is able to make it to a ride overlooking Elder's Pass. Below they see a massive keep with tall imposing walls with very few windows built into the wall of the mountain behind it. Smoke belches forth from the top of the keep in great black stinking clouds that seem to hang low over the small dale the keep sits in. There appears to be a steep channel cut into the stone beneath the castle that glistens and sparkles with ice. The channel leads down the mountains straight back towards the forest below many many miles away. They hear the sounds of the orc war horns again, as the stone beneath their feet rumbles and they head a clatter above as Garnok the stone giant begins sliding down the small peak they stood next to and lands next to them. He is able to provide a brief description of the 3 levels inside the keep, and offers to help them in their assault, whatever method they chose to use. Garnok tells the party that he is able to shape the stone in some limited ways, or could just start a distracting attack. The party stops and considers their plan of attack...
+
+---
+# Landfall <a name="landfall"/>
+
+**The Beekeepers** awaken in a fungal glen in the **Southern Mistwood**, surrounded by sleepy fungal creatures.
+**Fen**, the recently appointed monarch of the creatures, manages to convince about a dozen of them to come along with the party as they head towards the **Mistwood Monarch**, where **Balphagore, Lord of Chains** is rumored to have been taken. While en-route, the party encounters a scouting party consisting of a dire wolf and several ravens. The dire wolf speaks druidic, and is able to communicate with [Sixela]({% link _characters/sixela.md %}). The wolf, Blood-Fangs, seems to think that the party is a group of Kymarians, and the quick-witted team is able to convince Blood-Fang to lead them back to where Balphy is being held. 
+
+After a few hours of travel the party arrives at a rocky promenade that overlooks the vale where the Mistwood Monarch resides. They see a cosmopolitan mix of monstrous-folk and forest dwellers gathered with wolves, bears, and the like at the base of the huge tree. At Blood-Fangs prompting, the party continues to a nearby Yuan-Ti temple that appears to have been ravaged by the passing of time.
+
+Inside, they discover **Eoin** and **Benji**, two adventurers who have been kidnapped by dark druids (presumably **Xerakath's Blades**) and brought to the temple. The druids cleansed them before leaving them chained to the walls here. There was a third, more devil-like fellow before, but he was recently taken out of the chamber by a gaggle of acolytes.
+
+**Fen** works swiftly to undo the shackles binding their new companions, while [Sixela]({% link _characters/sixela.md %}) shapeshifts into a spider and goes scouting further into the temple. [Sixela]({% link _characters/sixela.md %}) finds a large cavern that contains a stair-stepped pyramid, atop which several figures are chanting around a figure that she discerns is Balphy. Balphy is chained by his arms and legs to four stone pillars that stand at the corners of the pyramid. At the foot of the pyramid is a basin that contains a large mass of vines. [Sixela]({% link _characters/sixela.md %}), seeing that some kind of ritual is underway, crawls up the robes of the nearest acolyte and bites them on the armpit.
+
+The acolyte drops the bowl she was carrying, which shatters on the floor. She swats at her body, but misses the spidery [Sixela]({% link _characters/sixela.md %}), who dashes back down her legs and escapes the ritual chamber. As she flees, she overhears a familiar voice. **Darqour**, the druid that the party killed not to long ago, berates the unnamed acoltye for her clumsiness.
+
+Back in the ritual prep-chambers, **Fen** uses her disguise kit to construct a mock Kymarian robe. [Sixela]({% link _characters/sixela.md %}) comes back with her scouting information, and the party learns that it is not the **Kymarians** performing the ritual, but the **Xerakath's Blades**. As the party starts to come up with a plan to storm the ritual-room, the unnamed acolyte throws open the door to the prep-chamber and walks in. She is immediately suprpised by the gaggle of strangers, and **Grizz** and **Eoin** work quickly to restrain her before she can raise an alarm or shout for help.
+
+[Sixela]({% link _characters/sixela.md %}) casts *Charm Person* on the acolyte, and shouts "Get naked!". What appears at first to be a clumsy attempt at seduction is actually just an attempt to get the acolytes robes. The acolyte, now charmed by [Sixela]({% link _characters/sixela.md %}), introduces herself as **Geenah**, and hands over her robes. She then begins asking a storm of questions, demanding to know why the sacirifical prisoners have been released, why she is standing in her small-clothes, and why there are a bunch of strangers here. [Sixela]({% link _characters/sixela.md %}), thinking quickly on her feet, convinces Geenah that the party is here to replace her at the bequest of **Darqour**, and that she should take a nap. **Fen** gives Geenah his recently thrown together Kymarian guise to wear in order to presever her diginity and body temperature.
+
+The party now splits into two groups in order to move on the ritual chamber: one group which will approach from the underground tunnel that leads from the prep-room to a secret entrance in the ritual chamber, and a second group which will go through the main doors. As the first group makes their way through the tunnel and approaches the secret door, someone's foot slips and makes a loud echoing slap on the stone floor. A voice from the ritual chamber calls out: "What in the blazes was that!?"
+
+
+---
+# The Underdark <a name="underdark"/>
+
+[Andoryx]({% link _characters/andoryx-lukather.md %}) poured the rest of the oil in his flask out on the pile of smoldering embers that was all that remained of the Burl of Rot before turning to take in the aftermath of the pitched battle that had finally drawn to an end.
+
+Green-cloaked corpses hewn by **Feldrimax**'s greatsword and punctured by **Toof**'s arrows and **Artair**'s thrown daggers littered the ground and stained the grass a deep, sticky red. **Feldrimax** leaned on his greatsword, wincing in pain as **Artair**'s Healing Word spell continued to stitch together the wounds that had caused him to lose consciousness just a few seconds ago. He gave a nod to [Andoryx]({% link _characters/andoryx-lukather.md %}), who stepped over the hulking body of the minotaur druid who'd had his head exploded by one of Bromwell's holy smites.
+
+Bromwell, who was bleeding from several serious wounds himself, was cradling **Cardigan**'s prone form as [Andoryx]({% link _characters/andoryx-lukather.md %}) approached. The paladin's hands were glowing, and **Cardigan**'s eyes fluttered open and gazed deeply into those of his drunken savior. [Andoryx]({% link _characters/andoryx-lukather.md %}) could tell the lad was struggling not to vomit yet again, hoping not to ruin this pure moment.
+**Toof** stood by **Artair** near the lone remaining Xeraketh's Blade, who barely clung to life while suspended in the outstretched limbs of several trees **Artair** had enlisted to Entangle the enemy. **Toof** was menacing the dark druid with her hook as she and **Artair** attempted to pry more information about Draevax's plans from the dying man.
+
+[Andoryx]({% link _characters/andoryx-lukather.md %}) stepped into the wide circle of scorched grass that marked the area where **Feldrimax** had accidentally dropped a fireball onto himself and prodded the smoking bones of a Xeraketh's Blade to see if anything valuable could be retrieved from the charred remains. A cry of disgust from **Toof** caused his head to snap up and he saw the Blade who she'd been interrogating slump over, dead. He'd opted to bite through his own tongue rather than give up any more information.
+Eyes stinging from the acrid smoke still pouring off the Burl and the druids' torched wagon, [Andoryx]({% link _characters/andoryx-lukather.md %}) looked at each of his friends and, noting their condition, offered up a plan:
+"Let's take a long rest."
