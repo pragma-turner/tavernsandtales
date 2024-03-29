@@ -2,9 +2,9 @@
 layout: post
 title: "Furnace Friend // Balphy's Rescue // Wasp Milk?"
 summary: "
-The Grease Fire finds Princess Vlakith..</br>
+The Grease Fire finds Princess Vlakith.</br>
 The Beekeepers try to free Balphy.</br>
-The Burl Brawlers stop the milking of wasps..</br>
+The Burl Brawlers stop the milking of wasps.</br>
 "
 ---
 
